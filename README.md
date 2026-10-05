@@ -26,12 +26,13 @@ Enjoy rich streaming, Spotify & Deezer search, synchronized scrolling lyrics, gl
 - **MeeGo D-Bus MPRIS2 Integration:** Full album art and track metadata on the MeeGo Glance Screen, Lock Screen, and 3.5mm headset remote control.
 - **Synchronized Lyrics:** Real-time scrolling lyrics powered by [LRCLIB](https://lrclib.net/) with tap-to-seek functionality.
 - **Offline Download Manager:** Download favorite MP3 tracks straight into `/home/user/MyDocs/Music/MeeGoify` for playback anywhere.
+<img width="480" height="854" alt="Screenshot_20261005_223016" src="https://github.com/user-attachments/assets/4b40b3a7-611d-415e-9d9d-2f81a5a079a7" />
 <img width="480" height="854" alt="Screenshot_20261005_223002" src="https://github.com/user-attachments/assets/8cfedfbb-431c-4607-aabf-ac439b33f4ee" />
 <img width="480" height="854" alt="Screenshot_20261005_222950" src="https://github.com/user-attachments/assets/dcb2d8f9-94fa-4d48-8774-4b8cf9ca6884" />
 <img width="480" height="854" alt="Screenshot_20261005_222819" src="https://github.com/user-attachments/assets/22998020-46aa-4027-a6bc-a30fd561960f" />
 <img width="480" height="854" alt="Screenshot_20261005_223156" src="https://github.com/user-attachments/assets/371e31ff-8010-4552-8875-1ae70181dbbe" />
 <img width="480" height="854" alt="Screenshot_20261005_223028" src="https://github.com/user-attachments/assets/28327fe7-53c7-4adf-b67c-7275c7d17bf5" />
-<img width="480" height="854" alt="Screenshot_20261005_223016" src="https://github.com/user-attachments/assets/4b40b3a7-611d-415e-9d9d-2f81a5a079a7" />
+
 
 ---
 
