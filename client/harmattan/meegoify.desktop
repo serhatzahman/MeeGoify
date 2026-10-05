@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=MeeGoify
+Exec=/usr/bin/python /opt/meegoify/main.py
+Icon=/opt/meegoify/meegoify.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+Comment=MeeGoify Music Experience for Nokia N9
+Categories=AudioVideo;Player;Audio;
